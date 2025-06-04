@@ -1,6 +1,6 @@
 ## Hola 👋
 
-My name is [**Andrea**](https://ajacho.github.io/belen.web/), a computer science student from Ecuador 🏔️.
+My name is [**Andrea**](https://ajacho.github.io/abjacho/), a computer science student from Ecuador 🏔️.
 
 - 🔭 I’m currently working on my own website to showcase all my skills as a future software engineer.
   
